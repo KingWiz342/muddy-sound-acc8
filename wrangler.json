@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "muddy-sound-acc8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f75a202c-40a7-4685-9f7a-51a8ca8c0407",
+      "database_name": "flat-band-ee48-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
